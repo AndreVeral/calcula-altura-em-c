@@ -1,0 +1,1 @@
+Dado que o usuário informou a altura e o sexo, então calcule seu peso ideal.
